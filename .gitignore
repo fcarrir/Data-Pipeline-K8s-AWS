@@ -1,3 +1,5 @@
 *.csv
 .terraform/
 .terraform.lock.hcl
+logs/
+temp/
